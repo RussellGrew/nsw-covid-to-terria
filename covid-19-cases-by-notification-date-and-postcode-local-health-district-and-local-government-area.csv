@@ -4024,16 +4024,16 @@ notification_date,postcode,lhd_2010_code,lhd_2010_name,lga_code19,lga_name19
 2020-09-24,2147,X740,Western Sydney,10750,Blacktown (C)
 2020-09-24,,,,,
 2020-09-25,2228,X720,South Eastern Sydney,17150,Sutherland Shire (A)
-2020-09-28,2147,X740,Western Sydney,10750,Blacktown (C)
-2020-09-28,,,,,
-2020-09-28,2163,X710,South Western Sydney,12850,Fairfield (C)
 2020-09-28,,,,,
 2020-09-28,2067,X760,Northern Sydney,18250,Willoughby (C)
+2020-09-28,,,,,
+2020-09-28,2147,X740,Western Sydney,10750,Blacktown (C)
+2020-09-28,2163,X710,South Western Sydney,12850,Fairfield (C)
 2020-09-29,2141,X740,Western Sydney,12380,Cumberland (A)
 2020-09-29,2141,X740,Western Sydney,12380,Cumberland (A)
-2020-09-30,2763,X740,Western Sydney,10750,Blacktown (C)
 2020-09-30,2762,X740,Western Sydney,10750,Blacktown (C)
 2020-09-30,,,,,
+2020-09-30,2763,X740,Western Sydney,10750,Blacktown (C)
 2020-09-30,2170,X710,South Western Sydney,14900,Liverpool (C)
 2020-10-01,,,,,
 2020-10-01,2196,X700,Sydney,11570,Canterbury-Bankstown (A)
@@ -4046,124 +4046,124 @@ notification_date,postcode,lhd_2010_code,lhd_2010_name,lga_code19,lga_name19
 2020-10-05,,,,,
 2020-10-05,,,,,
 2020-10-05,,,,,
-2020-10-05,2034,X720,South Eastern Sydney,16550,Randwick (C)
-2020-10-05,2034,X720,South Eastern Sydney,16550,Randwick (C)
-2020-10-05,2034,X720,South Eastern Sydney,16550,Randwick (C)
 2020-10-05,,,,,
 2020-10-05,,,,,
+2020-10-05,2034,X720,South Eastern Sydney,16550,Randwick (C)
+2020-10-05,2034,X720,South Eastern Sydney,16550,Randwick (C)
+2020-10-05,2034,X720,South Eastern Sydney,16550,Randwick (C)
 2020-10-05,,,,,
 2020-10-06,,,,,
 2020-10-06,,,,,
 2020-10-06,2560,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
-2020-10-07,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-10-07,2565,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
 2020-10-07,2150,X740,Western Sydney,16260,Parramatta (C)
+2020-10-07,2145,X740,Western Sydney,12380,Cumberland (A)
+2020-10-07,2150,X740,Western Sydney,16260,Parramatta (C)
+2020-10-07,2145,X740,Western Sydney,12380,Cumberland (A)
+2020-10-07,2145,X740,Western Sydney,12380,Cumberland (A)
+2020-10-07,2570,X710,South Western Sydney,11450,Camden (A)
+2020-10-07,2150,X740,Western Sydney,16260,Parramatta (C)
+2020-10-07,2571,X710,South Western Sydney,18400,Wollondilly (A)
+2020-10-07,2570,X710,South Western Sydney,11450,Camden (A)
+2020-10-07,2571,X710,South Western Sydney,18400,Wollondilly (A)
+2020-10-07,2565,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
 2020-10-07,2150,X740,Western Sydney,16260,Parramatta (C)
 2020-10-07,2570,X710,South Western Sydney,11450,Camden (A)
 2020-10-07,2034,X720,South Eastern Sydney,16550,Randwick (C)
 2020-10-07,2570,X710,South Western Sydney,11450,Camden (A)
-2020-10-07,2571,X710,South Western Sydney,18400,Wollondilly (A)
-2020-10-07,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-10-07,2571,X710,South Western Sydney,18400,Wollondilly (A)
-2020-10-07,2570,X710,South Western Sydney,11450,Camden (A)
-2020-10-07,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-10-07,2150,X740,Western Sydney,16260,Parramatta (C)
-2020-10-07,2570,X710,South Western Sydney,11450,Camden (A)
-2020-10-07,2150,X740,Western Sydney,16260,Parramatta (C)
-2020-10-08,2768,X740,Western Sydney,10750,Blacktown (C)
 2020-10-08,2173,X710,South Western Sydney,14900,Liverpool (C)
+2020-10-08,,,,,
+2020-10-08,2768,X740,Western Sydney,10750,Blacktown (C)
 2020-10-08,2762,X740,Western Sydney,10750,Blacktown (C)
 2020-10-08,2580,X830,Southern NSW,13310,Goulburn Mulwaree (A)
-2020-10-08,,,,,
 2020-10-08,2026,X720,South Eastern Sydney,18050,Waverley (A)
 2020-10-09,2122,X760,Northern Sydney,16700,Ryde (C)
-2020-10-09,2122,X760,Northern Sydney,16700,Ryde (C)
-2020-10-09,2304,X800,Hunter New England,15900,Newcastle (C)
 2020-10-09,2557,X710,South Western Sydney,11450,Camden (A)
+2020-10-09,2304,X800,Hunter New England,15900,Newcastle (C)
+2020-10-09,2122,X760,Northern Sydney,16700,Ryde (C)
+2020-10-10,,,,,
+2020-10-10,2034,X720,South Eastern Sydney,16550,Randwick (C)
 2020-10-10,2174,X710,South Western Sydney,14900,Liverpool (C)
 2020-10-10,2290,X800,Hunter New England,14650,Lake Macquarie (C)
-2020-10-10,,,,,
-2020-10-10,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
-2020-10-10,2174,X710,South Western Sydney,14900,Liverpool (C)
 2020-10-10,2153,X740,Western Sydney,17420,The Hills Shire (A)
-2020-10-10,2034,X720,South Eastern Sydney,16550,Randwick (C)
+2020-10-10,2174,X710,South Western Sydney,14900,Liverpool (C)
+2020-10-10,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
 2020-10-11,,,,,
 2020-10-11,2151,X740,Western Sydney,16260,Parramatta (C)
-2020-10-11,,,,,
-2020-10-11,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
 2020-10-11,2221,X720,South Eastern Sydney,12930,Georges River (A)
+2020-10-11,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
+2020-10-11,,,,,
 2020-10-12,,,,,
+2020-10-12,2145,X740,Western Sydney,12380,Cumberland (A)
 2020-10-12,,,,,
-2020-10-12,2567,X710,South Western Sydney,11450,Camden (A)
-2020-10-12,,,,,
-2020-10-12,2570,X710,South Western Sydney,11450,Camden (A)
 2020-10-12,2151,X740,Western Sydney,16260,Parramatta (C)
-2020-10-12,2570,X710,South Western Sydney,11450,Camden (A)
-2020-10-12,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-10-12,2570,X710,South Western Sydney,11450,Camden (A)
-2020-10-12,2570,X710,South Western Sydney,11450,Camden (A)
-2020-10-12,2570,X710,South Western Sydney,11450,Camden (A)
-2020-10-12,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-10-12,,,,,
 2020-10-12,,,,,
 2020-10-12,2076,X760,Northern Sydney,14500,Ku-ring-gai (A)
+2020-10-12,2567,X710,South Western Sydney,11450,Camden (A)
+2020-10-12,2570,X710,South Western Sydney,11450,Camden (A)
+2020-10-12,2570,X710,South Western Sydney,11450,Camden (A)
+2020-10-12,2570,X710,South Western Sydney,11450,Camden (A)
+2020-10-12,2570,X710,South Western Sydney,11450,Camden (A)
+2020-10-12,,,,,
+2020-10-12,2145,X740,Western Sydney,12380,Cumberland (A)
+2020-10-12,2570,X710,South Western Sydney,11450,Camden (A)
+2020-10-12,,,,,
 2020-10-13,2145,X740,Western Sydney,12380,Cumberland (A)
+2020-10-13,2072,X760,Northern Sydney,14500,Ku-ring-gai (A)
 2020-10-13,2565,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
-2020-10-13,2565,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
+2020-10-13,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
+2020-10-13,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
+2020-10-13,2145,X740,Western Sydney,12380,Cumberland (A)
 2020-10-13,2146,X740,Western Sydney,16260,Parramatta (C)
 2020-10-13,2565,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
-2020-10-13,2072,X760,Northern Sydney,14500,Ku-ring-gai (A)
+2020-10-13,2565,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
+2020-10-13,2766,X740,Western Sydney,10750,Blacktown (C)
 2020-10-13,2574,X710,South Western Sydney,18400,Wollondilly (A)
 2020-10-13,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-10-13,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
-2020-10-13,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-10-13,2766,X740,Western Sydney,10750,Blacktown (C)
-2020-10-13,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
+2020-10-14,2574,X710,South Western Sydney,18400,Wollondilly (A)
 2020-10-14,2766,X740,Western Sydney,10750,Blacktown (C)
+2020-10-14,2566,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
 2020-10-14,2217,X720,South Eastern Sydney,10500,Bayside (A)
 2020-10-14,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
-2020-10-14,2574,X710,South Western Sydney,18400,Wollondilly (A)
-2020-10-14,2566,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
 2020-10-14,2144,X740,Western Sydney,12380,Cumberland (A)
-2020-10-14,2173,X710,South Western Sydney,14900,Liverpool (C)
 2020-10-14,,,,,
 2020-10-14,2766,X740,Western Sydney,10750,Blacktown (C)
 2020-10-14,,,,,
-2020-10-15,2768,X740,Western Sydney,10750,Blacktown (C)
-2020-10-15,,,,,
+2020-10-14,2173,X710,South Western Sydney,14900,Liverpool (C)
 2020-10-15,2035,X720,South Eastern Sydney,16550,Randwick (C)
+2020-10-15,,,,,
+2020-10-15,2768,X740,Western Sydney,10750,Blacktown (C)
+2020-10-16,2570,X710,South Western Sydney,11450,Camden (A)
+2020-10-16,2570,X710,South Western Sydney,11450,Camden (A)
 2020-10-16,2567,X710,South Western Sydney,11450,Camden (A)
+2020-10-16,2570,X710,South Western Sydney,11450,Camden (A)
 2020-10-16,,,,,
-2020-10-16,2570,X710,South Western Sydney,11450,Camden (A)
 2020-10-16,2154,X740,Western Sydney,17420,The Hills Shire (A)
-2020-10-16,2570,X710,South Western Sydney,11450,Camden (A)
-2020-10-16,2570,X710,South Western Sydney,11450,Camden (A)
 2020-10-16,2570,X710,South Western Sydney,11450,Camden (A)
 2020-10-17,2261,X770,Central Coast,11650,Central Coast (C) (NSW)
 2020-10-17,,,,,
-2020-10-17,2035,X720,South Eastern Sydney,16550,Randwick (C)
-2020-10-17,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-10-17,,,,,
 2020-10-17,2570,X710,South Western Sydney,11450,Camden (A)
-2020-10-18,2227,X720,South Eastern Sydney,17150,Sutherland Shire (A)
-2020-10-18,2750,X750,Nepean Blue Mountains,16350,Penrith (C)
-2020-10-18,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
+2020-10-17,2145,X740,Western Sydney,12380,Cumberland (A)
+2020-10-17,2035,X720,South Eastern Sydney,16550,Randwick (C)
+2020-10-17,,,,,
 2020-10-18,,,,,
-2020-10-18,2153,X740,Western Sydney,17420,The Hills Shire (A)
+2020-10-18,2227,X720,South Eastern Sydney,17150,Sutherland Shire (A)
 2020-10-18,2179,X710,South Western Sydney,14900,Liverpool (C)
-2020-10-19,2570,X710,South Western Sydney,11450,Camden (A)
-2020-10-19,,,,,
+2020-10-18,2750,X750,Nepean Blue Mountains,16350,Penrith (C)
+2020-10-18,2153,X740,Western Sydney,17420,The Hills Shire (A)
+2020-10-18,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
 2020-10-19,2560,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
-2020-10-19,2750,X750,Nepean Blue Mountains,16350,Penrith (C)
-2020-10-19,2570,X710,South Western Sydney,11450,Camden (A)
 2020-10-19,2527,X730,Illawarra Shoalhaven,16900,Shellharbour (C)
 2020-10-19,2570,X710,South Western Sydney,11450,Camden (A)
 2020-10-19,2234,X720,South Eastern Sydney,17150,Sutherland Shire (A)
-2020-10-19,2041,X700,Sydney,14170,Inner West (A)
+2020-10-19,2750,X750,Nepean Blue Mountains,16350,Penrith (C)
+2020-10-19,2570,X710,South Western Sydney,11450,Camden (A)
 2020-10-19,2580,X830,Southern NSW,13310,Goulburn Mulwaree (A)
-2020-10-20,2038,X700,Sydney,14170,Inner West (A)
-2020-10-20,2217,X720,South Eastern Sydney,10500,Bayside (A)
+2020-10-19,2041,X700,Sydney,14170,Inner West (A)
+2020-10-19,,,,,
+2020-10-19,2570,X710,South Western Sydney,11450,Camden (A)
 2020-10-20,2570,X710,South Western Sydney,11450,Camden (A)
+2020-10-20,2217,X720,South Eastern Sydney,10500,Bayside (A)
+2020-10-20,2038,X700,Sydney,14170,Inner West (A)
 2020-10-20,,,,,
 2020-10-21,,,,,
 2020-10-21,,,,,
@@ -4171,141 +4171,141 @@ notification_date,postcode,lhd_2010_code,lhd_2010_name,lga_code19,lga_name19
 2020-10-21,,,,,
 2020-10-21,,,,,
 2020-10-21,,,,,
-2020-10-21,2127,X740,Western Sydney,16260,Parramatta (C)
 2020-10-21,2570,X710,South Western Sydney,11450,Camden (A)
+2020-10-21,2127,X740,Western Sydney,16260,Parramatta (C)
 2020-10-21,2170,X710,South Western Sydney,14900,Liverpool (C)
+2020-10-22,2146,X740,Western Sydney,16260,Parramatta (C)
 2020-10-22,2484,X810,Northern NSW,17550,Tweed (A)
 2020-10-22,,,,,
-2020-10-22,2146,X740,Western Sydney,16260,Parramatta (C)
-2020-10-23,2160,X740,Western Sydney,12380,Cumberland (A)
+2020-10-23,2155,X740,Western Sydney,17420,The Hills Shire (A)
 2020-10-23,2150,X740,Western Sydney,16260,Parramatta (C)
 2020-10-23,,,,,
 2020-10-23,,,,,
 2020-10-23,2134,X700,Sydney,11300,Burwood (A)
-2020-10-23,2155,X740,Western Sydney,17420,The Hills Shire (A)
-2020-10-24,2565,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
-2020-10-24,2170,X710,South Western Sydney,14900,Liverpool (C)
-2020-10-24,,,,,
+2020-10-23,2160,X740,Western Sydney,12380,Cumberland (A)
 2020-10-24,,,,,
 2020-10-24,2172,X710,South Western Sydney,14900,Liverpool (C)
 2020-10-24,,,,,
+2020-10-24,2565,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
+2020-10-24,2170,X710,South Western Sydney,14900,Liverpool (C)
+2020-10-24,,,,,
 2020-10-24,2171,X710,South Western Sydney,14900,Liverpool (C)
-2020-10-25,2099,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-10-25,,,,,
 2020-10-25,2045,X700,Sydney,14170,Inner West (A)
+2020-10-25,2099,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-10-26,2570,X710,South Western Sydney,11450,Camden (A)
+2020-10-26,,,,,
+2020-10-26,2570,X710,South Western Sydney,11450,Camden (A)
 2020-10-26,2131,X700,Sydney,14170,Inner West (A)
-2020-10-26,2164,X710,South Western Sydney,12850,Fairfield (C)
-2020-10-26,2154,X740,Western Sydney,17420,The Hills Shire (A)
-2020-10-26,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
-2020-10-26,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
-2020-10-26,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
-2020-10-26,2570,X710,South Western Sydney,11450,Camden (A)
-2020-10-26,2009,X700,Sydney,17200,Sydney (C)
-2020-10-26,2009,X700,Sydney,17200,Sydney (C)
-2020-10-26,2570,X710,South Western Sydney,11450,Camden (A)
 2020-10-26,2767,X740,Western Sydney,10750,Blacktown (C)
 2020-10-26,2146,X740,Western Sydney,16260,Parramatta (C)
 2020-10-26,2131,X700,Sydney,14170,Inner West (A)
+2020-10-26,2164,X710,South Western Sydney,12850,Fairfield (C)
+2020-10-26,2009,X700,Sydney,17200,Sydney (C)
 2020-10-26,,,,,
-2020-10-26,,,,,
+2020-10-26,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
+2020-10-26,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
+2020-10-26,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
+2020-10-26,2009,X700,Sydney,17200,Sydney (C)
+2020-10-26,2154,X740,Western Sydney,17420,The Hills Shire (A)
 2020-10-27,,,,,
 2020-10-27,,,,,
 2020-10-27,2031,X720,South Eastern Sydney,16550,Randwick (C)
-2020-10-27,,,,,
 2020-10-27,2565,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
+2020-10-27,,,,,
 2020-10-28,2171,X710,South Western Sydney,14900,Liverpool (C)
 2020-10-28,2171,X710,South Western Sydney,14900,Liverpool (C)
 2020-10-28,2171,X710,South Western Sydney,14900,Liverpool (C)
 2020-10-28,2171,X710,South Western Sydney,14900,Liverpool (C)
+2020-10-29,2747,X750,Nepean Blue Mountains,16350,Penrith (C)
+2020-10-29,2229,X720,South Eastern Sydney,17150,Sutherland Shire (A)
+2020-10-29,2142,X740,Western Sydney,12380,Cumberland (A)
 2020-10-29,2144,X740,Western Sydney,12380,Cumberland (A)
 2020-10-29,2142,X740,Western Sydney,12380,Cumberland (A)
 2020-10-29,2142,X740,Western Sydney,12380,Cumberland (A)
 2020-10-29,2142,X740,Western Sydney,12380,Cumberland (A)
-2020-10-29,2229,X720,South Eastern Sydney,17150,Sutherland Shire (A)
-2020-10-29,2142,X740,Western Sydney,12380,Cumberland (A)
-2020-10-29,2747,X750,Nepean Blue Mountains,16350,Penrith (C)
+2020-10-30,2166,X710,South Western Sydney,12850,Fairfield (C)
 2020-10-30,,,,,
 2020-10-30,2216,X720,South Eastern Sydney,10500,Bayside (A)
 2020-10-30,,,,,
-2020-10-30,2166,X710,South Western Sydney,12850,Fairfield (C)
 2020-10-31,,,,,
-2020-10-31,2536,X830,Southern NSW,12750,Eurobodalla (A)
 2020-10-31,2747,X750,Nepean Blue Mountains,16350,Penrith (C)
 2020-10-31,2026,X720,South Eastern Sydney,18050,Waverley (A)
 2020-10-31,2026,X720,South Eastern Sydney,18050,Waverley (A)
-2020-11-01,2216,X720,South Eastern Sydney,10500,Bayside (A)
-2020-11-01,2171,X710,South Western Sydney,14900,Liverpool (C)
-2020-11-01,,,,,
-2020-11-01,2481,X810,Northern NSW,11350,Byron (A)
+2020-10-31,2536,X830,Southern NSW,12750,Eurobodalla (A)
 2020-11-01,2026,X720,South Eastern Sydney,18050,Waverley (A)
-2020-11-02,2360,X800,Hunter New England,14200,Inverell (A)
-2020-11-02,2099,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-11-02,2582,X830,Southern NSW,18710,Yass Valley (A)
+2020-11-01,2171,X710,South Western Sydney,14900,Liverpool (C)
+2020-11-01,2216,X720,South Eastern Sydney,10500,Bayside (A)
+2020-11-01,2481,X810,Northern NSW,11350,Byron (A)
+2020-11-01,,,,,
 2020-11-02,2164,X710,South Western Sydney,12850,Fairfield (C)
-2020-11-03,,,,,
+2020-11-02,2582,X830,Southern NSW,18710,Yass Valley (A)
+2020-11-02,2099,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-11-02,2360,X800,Hunter New England,14200,Inverell (A)
 2020-11-03,2166,X710,South Western Sydney,12850,Fairfield (C)
-2020-11-03,2582,X830,Southern NSW,18710,Yass Valley (A)
-2020-11-03,2565,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
-2020-11-03,2161,X740,Western Sydney,12380,Cumberland (A)
+2020-11-03,2166,X710,South Western Sydney,12850,Fairfield (C)
 2020-11-03,2099,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-11-03,2166,X710,South Western Sydney,12850,Fairfield (C)
-2020-11-04,,,,,
+2020-11-03,2565,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
+2020-11-03,,,,,
+2020-11-03,2161,X740,Western Sydney,12380,Cumberland (A)
+2020-11-03,2582,X830,Southern NSW,18710,Yass Valley (A)
 2020-11-04,,,,,
 2020-11-04,2079,X760,Northern Sydney,14000,Hornsby (A)
-2020-11-05,2577,X710,South Western Sydney,18350,Wingecarribee (A)
-2020-11-05,,,,,
+2020-11-04,,,,,
 2020-11-05,2170,X710,South Western Sydney,14900,Liverpool (C)
+2020-11-05,,,,,
+2020-11-05,,,,,
 2020-11-05,2577,X710,South Western Sydney,18350,Wingecarribee (A)
+2020-11-05,2170,X710,South Western Sydney,14900,Liverpool (C)
 2020-11-05,2577,X710,South Western Sydney,18350,Wingecarribee (A)
 2020-11-05,2173,X710,South Western Sydney,14900,Liverpool (C)
 2020-11-05,2577,X710,South Western Sydney,18350,Wingecarribee (A)
-2020-11-05,,,,,
 2020-11-05,2211,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2020-11-05,2170,X710,South Western Sydney,14900,Liverpool (C)
+2020-11-05,2577,X710,South Western Sydney,18350,Wingecarribee (A)
+2020-11-06,,,,,
 2020-11-06,2140,X700,Sydney,17100,Strathfield (A)
 2020-11-06,2577,X710,South Western Sydney,18350,Wingecarribee (A)
-2020-11-06,2126,X760,Northern Sydney,14000,Hornsby (A)
 2020-11-06,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
-2020-11-06,,,,,
-2020-11-07,2008,X700,Sydney,17200,Sydney (C)
-2020-11-07,,,,,
+2020-11-06,2126,X760,Northern Sydney,14000,Hornsby (A)
 2020-11-07,2192,X700,Sydney,11570,Canterbury-Bankstown (A)
 2020-11-07,,,,,
-2020-11-08,2322,X800,Hunter New England,15050,Maitland (C)
-2020-11-08,,,,,
-2020-11-08,2300,X800,Hunter New England,15900,Newcastle (C)
-2020-11-08,,,,,
+2020-11-07,,,,,
+2020-11-07,2008,X700,Sydney,17200,Sydney (C)
 2020-11-08,2145,X740,Western Sydney,12380,Cumberland (A)
+2020-11-08,2300,X800,Hunter New England,15900,Newcastle (C)
 2020-11-08,2316,X800,Hunter New England,16400,Port Stephens (A)
 2020-11-08,,,,,
+2020-11-08,,,,,
+2020-11-08,,,,,
+2020-11-08,2322,X800,Hunter New England,15050,Maitland (C)
 2020-11-09,2580,X830,Southern NSW,13310,Goulburn Mulwaree (A)
-2020-11-09,,,,,
 2020-11-09,2008,X700,Sydney,17200,Sydney (C)
-2020-11-09,2151,X740,Western Sydney,16260,Parramatta (C)
 2020-11-09,,,,,
+2020-11-09,,,,,
+2020-11-09,2151,X740,Western Sydney,16260,Parramatta (C)
 2020-11-10,,,,,
 2020-11-10,,,,,
+2020-11-11,,,,,
+2020-11-11,,,,,
 2020-11-11,,,,,
 2020-11-11,,,,,
 2020-11-11,2200,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2020-11-11,,,,,
-2020-11-11,,,,,
 2020-11-12,,,,,
 2020-11-12,,,,,
 2020-11-13,,,,,
-2020-11-13,2135,X700,Sydney,17100,Strathfield (A)
-2020-11-13,,,,,
-2020-11-13,2322,X800,Hunter New England,15050,Maitland (C)
-2020-11-13,2022,X720,South Eastern Sydney,18050,Waverley (A)
 2020-11-13,2127,X740,Western Sydney,16260,Parramatta (C)
-2020-11-14,2079,X760,Northern Sydney,14000,Hornsby (A)
-2020-11-14,,,,,
-2020-11-14,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-11-14,2481,X810,Northern NSW,11350,Byron (A)
-2020-11-14,,,,,
+2020-11-13,2135,X700,Sydney,17100,Strathfield (A)
+2020-11-13,2022,X720,South Eastern Sydney,18050,Waverley (A)
+2020-11-13,2322,X800,Hunter New England,15050,Maitland (C)
+2020-11-13,,,,,
 2020-11-14,2229,X720,South Eastern Sydney,17150,Sutherland Shire (A)
 2020-11-14,,,,,
+2020-11-14,2145,X740,Western Sydney,12380,Cumberland (A)
+2020-11-14,,,,,
 2020-11-14,2016,X700,Sydney,17200,Sydney (C)
+2020-11-14,2481,X810,Northern NSW,11350,Byron (A)
+2020-11-14,2079,X760,Northern Sydney,14000,Hornsby (A)
+2020-11-14,,,,,
 2020-11-15,,,,,
 2020-11-15,2142,X740,Western Sydney,12380,Cumberland (A)
 2020-11-16,,,,,
@@ -4314,622 +4314,622 @@ notification_date,postcode,lhd_2010_code,lhd_2010_name,lga_code19,lga_name19
 2020-11-16,,,,,
 2020-11-17,,,,,
 2020-11-17,,,,,
-2020-11-17,,,,,
 2020-11-17,2515,X730,Illawarra Shoalhaven,18450,Wollongong (C)
 2020-11-17,,,,,
 2020-11-17,,,,,
+2020-11-17,,,,,
+2020-11-18,,,,,
+2020-11-18,,,,,
+2020-11-18,,,,,
+2020-11-18,,,,,
 2020-11-18,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
-2020-11-18,,,,,
-2020-11-18,,,,,
-2020-11-18,,,,,
-2020-11-18,2010,X720,South Eastern Sydney,17200,Sydney (C)
-2020-11-18,,,,,
 2020-11-18,2213,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
+2020-11-18,2010,X720,South Eastern Sydney,17200,Sydney (C)
 2020-11-19,,,,,
 2020-11-19,,,,,
 2020-11-19,2213,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
 2020-11-20,,,,,
 2020-11-20,,,,,
-2020-11-20,,,,,
-2020-11-20,,,,,
-2020-11-20,,,,,
-2020-11-20,,,,,
 2020-11-20,2061,X760,Northern Sydney,15950,North Sydney (A)
+2020-11-20,,,,,
+2020-11-20,,,,,
+2020-11-20,,,,,
 2020-11-20,2230,X720,South Eastern Sydney,17150,Sutherland Shire (A)
 2020-11-20,,,,,
 2020-11-20,,,,,
-2020-11-21,2042,X700,Sydney,17200,Sydney (C)
+2020-11-20,,,,,
+2020-11-21,,,,,
+2020-11-21,,,,,
+2020-11-21,,,,,
 2020-11-21,2228,X720,South Eastern Sydney,17150,Sutherland Shire (A)
+2020-11-21,,,,,
 2020-11-21,2173,X710,South Western Sydney,14900,Liverpool (C)
-2020-11-21,,,,,
-2020-11-21,,,,,
+2020-11-21,2042,X700,Sydney,17200,Sydney (C)
 2020-11-21,,,,,
 2020-11-21,2229,X720,South Eastern Sydney,17150,Sutherland Shire (A)
-2020-11-21,,,,,
-2020-11-21,,,,,
 2020-11-22,,,,,
-2020-11-22,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
 2020-11-22,2135,X700,Sydney,17100,Strathfield (A)
+2020-11-22,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
 2020-11-22,2205,X720,South Eastern Sydney,10500,Bayside (A)
 2020-11-22,,,,,
-2020-11-23,,,,,
-2020-11-23,,,,,
 2020-11-23,2096,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-11-23,,,,,
 2020-11-23,,,,,
 2020-11-23,,,,,
 2020-11-23,,,,,
-2020-11-24,2170,X710,South Western Sydney,14900,Liverpool (C)
+2020-11-23,,,,,
+2020-11-23,,,,,
 2020-11-24,2120,X760,Northern Sydney,14000,Hornsby (A)
-2020-11-26,,,,,
-2020-11-26,,,,,
-2020-11-26,,,,,
+2020-11-24,2170,X710,South Western Sydney,14900,Liverpool (C)
 2020-11-26,2017,X700,Sydney,17200,Sydney (C)
 2020-11-26,,,,,
-2020-11-27,2030,X720,South Eastern Sydney,18050,Waverley (A)
+2020-11-26,,,,,
+2020-11-26,,,,,
+2020-11-26,,,,,
+2020-11-27,,,,,
 2020-11-27,2829,X850,Western NSW,12150,Coonamble (A)
-2020-11-27,,,,,
-2020-11-27,,,,,
-2020-11-27,2099,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-11-27,2030,X720,South Eastern Sydney,18050,Waverley (A)
 2020-11-27,2099,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-11-27,2161,X740,Western Sydney,12380,Cumberland (A)
 2020-11-27,2015,X700,Sydney,17200,Sydney (C)
+2020-11-27,,,,,
+2020-11-27,2099,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-11-28,,,,,
 2020-11-28,2021,X720,South Eastern Sydney,18500,Woollahra (A)
 2020-11-28,,,,,
-2020-11-28,,,,,
 2020-11-28,2035,X720,South Eastern Sydney,16550,Randwick (C)
-2020-11-29,2790,X750,Nepean Blue Mountains,14870,Lithgow (C)
-2020-11-29,2150,X740,Western Sydney,16260,Parramatta (C)
 2020-11-29,,,,,
 2020-11-29,2626,X830,Southern NSW,17040,Snowy Monaro Regional (A)
+2020-11-29,2150,X740,Western Sydney,16260,Parramatta (C)
 2020-11-29,,,,,
 2020-11-29,2161,X740,Western Sydney,12380,Cumberland (A)
 2020-11-29,2095,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-11-30,2034,X720,South Eastern Sydney,16550,Randwick (C)
-2020-11-30,,,,,
-2020-11-30,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
+2020-11-29,2790,X750,Nepean Blue Mountains,14870,Lithgow (C)
+2020-11-30,2626,X830,Southern NSW,17040,Snowy Monaro Regional (A)
 2020-11-30,2762,X740,Western Sydney,10750,Blacktown (C)
 2020-11-30,2283,X800,Hunter New England,14650,Lake Macquarie (C)
-2020-11-30,2088,X760,Northern Sydney,15350,Mosman (A)
 2020-11-30,2478,X810,Northern NSW,10250,Ballina (A)
-2020-11-30,2626,X830,Southern NSW,17040,Snowy Monaro Regional (A)
-2020-12-01,2026,X720,South Eastern Sydney,18050,Waverley (A)
-2020-12-01,2026,X720,South Eastern Sydney,18050,Waverley (A)
+2020-11-30,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
+2020-11-30,2088,X760,Northern Sydney,15350,Mosman (A)
+2020-11-30,,,,,
+2020-11-30,2034,X720,South Eastern Sydney,16550,Randwick (C)
+2020-12-01,2790,X750,Nepean Blue Mountains,14870,Lithgow (C)
 2020-12-01,,,,,
 2020-12-01,2199,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2020-12-01,2790,X750,Nepean Blue Mountains,14870,Lithgow (C)
 2020-12-01,2210,X720,South Eastern Sydney,12930,Georges River (A)
-2020-12-02,2113,X760,Northern Sydney,16700,Ryde (C)
-2020-12-02,2558,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
-2020-12-02,,,,,
+2020-12-01,2026,X720,South Eastern Sydney,18050,Waverley (A)
+2020-12-01,2026,X720,South Eastern Sydney,18050,Waverley (A)
 2020-12-02,2152,X740,Western Sydney,16260,Parramatta (C)
-2020-12-02,2141,X740,Western Sydney,12380,Cumberland (A)
+2020-12-02,2031,X720,South Eastern Sydney,16550,Randwick (C)
+2020-12-02,2113,X760,Northern Sydney,16700,Ryde (C)
+2020-12-02,,,,,
 2020-12-02,,,,,
 2020-12-02,2061,X760,Northern Sydney,15950,North Sydney (A)
-2020-12-02,2031,X720,South Eastern Sydney,16550,Randwick (C)
-2020-12-03,2095,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-03,2095,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-02,2558,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
+2020-12-02,2141,X740,Western Sydney,12380,Cumberland (A)
 2020-12-03,2082,X760,Northern Sydney,14000,Hornsby (A)
+2020-12-03,2095,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-03,2095,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-03,,,,,
 2020-12-04,2650,X840,Murrumbidgee,17750,Wagga Wagga (C)
 2020-12-04,2650,X840,Murrumbidgee,17750,Wagga Wagga (C)
 2020-12-05,2125,X740,Western Sydney,17420,The Hills Shire (A)
 2020-12-05,,,,,
 2020-12-05,2233,X720,South Eastern Sydney,17150,Sutherland Shire (A)
-2020-12-05,,,,,
 2020-12-05,2233,X720,South Eastern Sydney,17150,Sutherland Shire (A)
-2020-12-06,,,,,
-2020-12-06,2030,X720,South Eastern Sydney,18050,Waverley (A)
-2020-12-06,2611,X840,Murrumbidgee,17080,Snowy Valleys (A)
+2020-12-05,,,,,
 2020-12-06,2022,X720,South Eastern Sydney,18050,Waverley (A)
 2020-12-06,,,,,
-2020-12-06,2150,X740,Western Sydney,16260,Parramatta (C)
+2020-12-06,2030,X720,South Eastern Sydney,18050,Waverley (A)
 2020-12-06,2146,X740,Western Sydney,16260,Parramatta (C)
+2020-12-06,,,,,
+2020-12-06,2150,X740,Western Sydney,16260,Parramatta (C)
+2020-12-06,2611,,,,
 2020-12-07,2223,X720,South Eastern Sydney,12930,Georges River (A)
+2020-12-07,,,,,
+2020-12-07,,,,,
 2020-12-07,2121,X760,Northern Sydney,16260,Parramatta (C)
-2020-12-07,,,,,
-2020-12-07,,,,,
 2020-12-08,,,,,
 2020-12-08,2034,X720,South Eastern Sydney,16550,Randwick (C)
+2020-12-09,2232,X720,South Eastern Sydney,17150,Sutherland Shire (A)
 2020-12-09,,,,,
-2020-12-09,2137,X700,Sydney,11520,Canada Bay (A)
+2020-12-09,2232,X720,South Eastern Sydney,17150,Sutherland Shire (A)
 2020-12-09,2314,,,,
-2020-12-09,2232,X720,South Eastern Sydney,17150,Sutherland Shire (A)
-2020-12-09,2232,X720,South Eastern Sydney,17150,Sutherland Shire (A)
+2020-12-09,2137,X700,Sydney,11520,Canada Bay (A)
 2020-12-09,,,,,
-2020-12-09,2611,X840,Murrumbidgee,17080,Snowy Valleys (A)
-2020-12-09,2769,X740,Western Sydney,10750,Blacktown (C)
 2020-12-09,2147,X740,Western Sydney,10750,Blacktown (C)
+2020-12-09,2611,,,,
+2020-12-09,2769,X740,Western Sydney,10750,Blacktown (C)
+2020-12-10,2154,X740,Western Sydney,17420,The Hills Shire (A)
 2020-12-10,2316,X800,Hunter New England,16400,Port Stephens (A)
 2020-12-10,2026,X720,South Eastern Sydney,18050,Waverley (A)
 2020-12-10,2030,X720,South Eastern Sydney,18050,Waverley (A)
-2020-12-10,2154,X740,Western Sydney,17420,The Hills Shire (A)
 2020-12-10,,,,,
 2020-12-10,,,,,
-2020-12-11,,,,,
-2020-12-11,2026,X720,South Eastern Sydney,18050,Waverley (A)
 2020-12-11,2075,X760,Northern Sydney,14500,Ku-ring-gai (A)
+2020-12-11,2026,X720,South Eastern Sydney,18050,Waverley (A)
+2020-12-11,,,,,
 2020-12-12,2026,X720,South Eastern Sydney,18050,Waverley (A)
 2020-12-12,2148,X740,Western Sydney,10750,Blacktown (C)
 2020-12-12,2756,X750,Nepean Blue Mountains,13800,Hawkesbury (C)
 2020-12-13,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-13,2163,X710,South Western Sydney,12850,Fairfield (C)
+2020-12-13,,,,,
 2020-12-13,2540,X730,Illawarra Shoalhaven,16950,Shoalhaven (C)
 2020-12-13,2260,X770,Central Coast,11650,Central Coast (C) (NSW)
-2020-12-13,,,,,
+2020-12-13,2163,X710,South Western Sydney,12850,Fairfield (C)
+2020-12-14,,,,,
+2020-12-14,,,,,
 2020-12-14,2192,X700,Sydney,11570,Canterbury-Bankstown (A)
 2020-12-14,,,,,
-2020-12-14,,,,,
 2020-12-14,2061,X760,Northern Sydney,15950,North Sydney (A)
 2020-12-14,2061,X760,Northern Sydney,15950,North Sydney (A)
 2020-12-14,2061,X760,Northern Sydney,15950,North Sydney (A)
-2020-12-14,,,,,
 2020-12-15,,,,,
 2020-12-15,2010,X720,South Eastern Sydney,17200,Sydney (C)
 2020-12-15,2010,X720,South Eastern Sydney,17200,Sydney (C)
+2020-12-16,,,,,
 2020-12-16,2220,X720,South Eastern Sydney,12930,Georges River (A)
+2020-12-16,2035,X720,South Eastern Sydney,16550,Randwick (C)
+2020-12-16,2093,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-16,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-16,2035,X720,South Eastern Sydney,16550,Randwick (C)
 2020-12-16,2196,X700,Sydney,11570,Canterbury-Bankstown (A)
 2020-12-16,2200,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
 2020-12-16,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-16,2035,X720,South Eastern Sydney,16550,Randwick (C)
-2020-12-16,2093,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-16,2035,X720,South Eastern Sydney,16550,Randwick (C)
-2020-12-16,,,,,
+2020-12-17,2106,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2103,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2106,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2153,X740,Western Sydney,17420,The Hills Shire (A)
-2020-12-17,2086,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2106,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-17,2108,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2108,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2104,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2101,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2230,X720,South Eastern Sydney,17150,Sutherland Shire (A)
-2020-12-17,2094,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2106,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-17,,,,,
-2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-17,2021,X720,South Eastern Sydney,18500,Woollahra (A)
+2020-12-17,2101,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-17,2104,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-17,2021,X720,South Eastern Sydney,18500,Woollahra (A)
+2020-12-17,2094,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-17,2153,X740,Western Sydney,17420,The Hills Shire (A)
+2020-12-17,2230,X720,South Eastern Sydney,17150,Sutherland Shire (A)
+2020-12-17,2086,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-17,2106,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-17,2106,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-17,2103,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-17,2108,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-17,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-17,2104,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-18,2062,X760,Northern Sydney,15950,North Sydney (A)
+2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-18,,,,,
+2020-12-18,2257,X770,Central Coast,11650,Central Coast (C) (NSW)
+2020-12-18,2190,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
+2020-12-18,,,,,
+2020-12-18,,,,,
+2020-12-18,2144,X740,Western Sydney,12380,Cumberland (A)
+2020-12-18,2190,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
+2020-12-18,2190,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
 2020-12-18,2062,X760,Northern Sydney,15950,North Sydney (A)
 2020-12-18,2190,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2020-12-18,2190,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2020-12-18,2190,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-18,2062,X760,Northern Sydney,15950,North Sydney (A)
-2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-18,2099,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-18,2097,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-18,2104,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-18,,,,,
-2020-12-18,,,,,
-2020-12-18,2257,X770,Central Coast,11650,Central Coast (C) (NSW)
-2020-12-18,,,,,
-2020-12-18,,,,,
-2020-12-18,2106,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-18,2106,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-18,2144,X740,Western Sydney,12380,Cumberland (A)
 2020-12-18,2112,X760,Northern Sydney,16700,Ryde (C)
-2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-18,2104,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-18,2106,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-18,2108,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-18,2190,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
+2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-18,2106,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-18,,,,,
 2020-12-18,2257,X770,Central Coast,11650,Central Coast (C) (NSW)
+2020-12-18,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-18,2099,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-19,2089,X760,Northern Sydney,15950,North Sydney (A)
 2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,2106,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,2106,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-19,2110,X760,Northern Sydney,14100,Hunters Hill (A)
 2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,,,,,
-2020-12-19,,,,,
 2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-19,,,,,
+2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-19,2106,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-19,2083,X760,Northern Sydney,14000,Hornsby (A)
+2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-19,2106,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-19,2077,X760,Northern Sydney,14000,Hornsby (A)
+2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-19,2106,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,2077,X760,Northern Sydney,14000,Hornsby (A)
-2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,2083,X760,Northern Sydney,14000,Hornsby (A)
-2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-19,2066,X760,Northern Sydney,14700,Lane Cove (A)
-2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-19,,,,,
+2020-12-19,2074,X760,Northern Sydney,14500,Ku-ring-gai (A)
 2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-19,2017,X700,Sydney,17200,Sydney (C)
-2020-12-19,2074,X760,Northern Sydney,14500,Ku-ring-gai (A)
-2020-12-20,2011,X720,South Eastern Sydney,17200,Sydney (C)
-2020-12-20,,,,,
-2020-12-20,2756,X750,Nepean Blue Mountains,13800,Hawkesbury (C)
-2020-12-20,2093,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-20,2763,X740,Western Sydney,10750,Blacktown (C)
-2020-12-20,2026,X720,South Eastern Sydney,18050,Waverley (A)
-2020-12-20,2210,X720,South Eastern Sydney,12930,Georges River (A)
-2020-12-20,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-20,2075,X760,Northern Sydney,14500,Ku-ring-gai (A)
-2020-12-20,2102,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-20,,,,,
-2020-12-20,,,,,
-2020-12-20,2077,X760,Northern Sydney,14000,Hornsby (A)
-2020-12-20,2559,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
-2020-12-20,,,,,
-2020-12-20,,,,,
+2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-19,,,,,
+2020-12-19,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-19,2066,X760,Northern Sydney,14700,Lane Cove (A)
 2020-12-20,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-12-20,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-20,,,,,
+2020-12-20,2074,X760,Northern Sydney,14500,Ku-ring-gai (A)
+2020-12-20,2559,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
+2020-12-20,2285,X800,Hunter New England,14650,Lake Macquarie (C)
+2020-12-20,,,,,
+2020-12-20,,,,,
+2020-12-20,2011,X720,South Eastern Sydney,17200,Sydney (C)
+2020-12-20,2099,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-20,2075,X760,Northern Sydney,14500,Ku-ring-gai (A)
+2020-12-20,2026,X720,South Eastern Sydney,18050,Waverley (A)
+2020-12-20,2102,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-20,2756,X750,Nepean Blue Mountains,13800,Hawkesbury (C)
+2020-12-20,2101,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-20,2021,X720,South Eastern Sydney,18500,Woollahra (A)
+2020-12-20,2540,X730,Illawarra Shoalhaven,16950,Shoalhaven (C)
 2020-12-20,2103,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-20,2103,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-20,2108,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-20,2540,X730,Illawarra Shoalhaven,16950,Shoalhaven (C)
-2020-12-20,2099,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-20,2101,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-20,2021,X720,South Eastern Sydney,18500,Woollahra (A)
-2020-12-20,2074,X760,Northern Sydney,14500,Ku-ring-gai (A)
-2020-12-20,2285,X800,Hunter New England,14650,Lake Macquarie (C)
+2020-12-20,2093,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-20,,,,,
+2020-12-20,2763,X740,Western Sydney,10750,Blacktown (C)
 2020-12-20,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-21,,,,,
+2020-12-20,2210,X720,South Eastern Sydney,12930,Georges River (A)
+2020-12-20,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-20,2077,X760,Northern Sydney,14000,Hornsby (A)
+2020-12-20,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-20,,,,,
 2020-12-21,2101,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-21,2104,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-21,,,,,
-2020-12-21,2047,X700,Sydney,11520,Canada Bay (A)
-2020-12-21,2767,X740,Western Sydney,10750,Blacktown (C)
-2020-12-21,2143,X740,Western Sydney,11570,Canterbury-Bankstown (A)
 2020-12-21,2106,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-21,2025,X720,South Eastern Sydney,18500,Woollahra (A)
 2020-12-21,2767,X740,Western Sydney,10750,Blacktown (C)
 2020-12-21,2103,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-21,2025,X720,South Eastern Sydney,18500,Woollahra (A)
+2020-12-21,,,,,
+2020-12-21,2767,X740,Western Sydney,10750,Blacktown (C)
 2020-12-21,2570,X710,South Western Sydney,11450,Camden (A)
-2020-12-22,2042,X700,Sydney,17200,Sydney (C)
-2020-12-22,2035,X720,South Eastern Sydney,16550,Randwick (C)
-2020-12-22,2620,X830,Southern NSW,16490,Queanbeyan-Palerang Regional (A)
-2020-12-22,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-22,2101,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-22,2165,X710,South Western Sydney,12850,Fairfield (C)
-2020-12-22,2767,X740,Western Sydney,10750,Blacktown (C)
-2020-12-22,2761,X740,Western Sydney,10750,Blacktown (C)
-2020-12-22,2761,X740,Western Sydney,10750,Blacktown (C)
+2020-12-21,,,,,
+2020-12-21,2104,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-21,2047,X700,Sydney,11520,Canada Bay (A)
+2020-12-21,2143,X740,Western Sydney,11570,Canterbury-Bankstown (A)
 2020-12-22,2155,X740,Western Sydney,17420,The Hills Shire (A)
-2020-12-22,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-22,2763,X740,Western Sydney,10750,Blacktown (C)
+2020-12-22,2165,X710,South Western Sydney,12850,Fairfield (C)
 2020-12-22,2630,X830,Southern NSW,17040,Snowy Monaro Regional (A)
-2020-12-23,,,,,
-2020-12-23,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-22,2620,X830,Southern NSW,16490,Queanbeyan-Palerang Regional (A)
+2020-12-22,2042,X700,Sydney,17200,Sydney (C)
+2020-12-22,2763,X740,Western Sydney,10750,Blacktown (C)
+2020-12-22,2035,X720,South Eastern Sydney,16550,Randwick (C)
+2020-12-22,2761,X740,Western Sydney,10750,Blacktown (C)
+2020-12-22,2761,X740,Western Sydney,10750,Blacktown (C)
+2020-12-22,2101,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-22,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-22,2767,X740,Western Sydney,10750,Blacktown (C)
+2020-12-22,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-23,2104,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-23,2086,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-23,,,,,
-2020-12-23,,,,,
-2020-12-23,2029,X720,South Eastern Sydney,18500,Woollahra (A)
-2020-12-23,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-23,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-23,2041,X700,Sydney,14170,Inner West (A)
 2020-12-23,2085,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-23,2041,X700,Sydney,14170,Inner West (A)
-2020-12-23,2142,X740,Western Sydney,12380,Cumberland (A)
-2020-12-23,,,,,
 2020-12-23,2066,X760,Northern Sydney,14700,Lane Cove (A)
-2020-12-23,2085,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-23,,,,,
+2020-12-23,2142,X740,Western Sydney,12380,Cumberland (A)
+2020-12-23,2085,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-23,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-23,2029,X720,South Eastern Sydney,18500,Woollahra (A)
+2020-12-23,,,,,
+2020-12-23,,,,,
+2020-12-23,,,,,
+2020-12-23,2041,X700,Sydney,14170,Inner West (A)
 2020-12-23,2150,X740,Western Sydney,16260,Parramatta (C)
+2020-12-23,2086,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-23,2767,X740,Western Sydney,10750,Blacktown (C)
 2020-12-23,,,,,
+2020-12-23,2041,X700,Sydney,14170,Inner West (A)
+2020-12-23,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-23,2088,X760,Northern Sydney,15350,Mosman (A)
-2020-12-24,2212,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2020-12-24,,,,,
+2020-12-23,,,,,
+2020-12-23,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-24,2037,X700,Sydney,17200,Sydney (C)
-2020-12-24,2041,X700,Sydney,14170,Inner West (A)
-2020-12-24,2042,X700,Sydney,17200,Sydney (C)
-2020-12-24,2570,X710,South Western Sydney,11450,Camden (A)
-2020-12-24,2155,X740,Western Sydney,17420,The Hills Shire (A)
 2020-12-24,2025,X720,South Eastern Sydney,18500,Woollahra (A)
-2020-12-24,2026,X720,South Eastern Sydney,18050,Waverley (A)
-2020-12-24,2104,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-24,2108,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-24,2212,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
+2020-12-24,2570,X710,South Western Sydney,11450,Camden (A)
 2020-12-24,,,,,
-2020-12-25,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-25,2086,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-25,2230,X720,South Eastern Sydney,17150,Sutherland Shire (A)
-2020-12-25,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-25,2062,X760,Northern Sydney,15950,North Sydney (A)
-2020-12-25,2620,X830,Southern NSW,16490,Queanbeyan-Palerang Regional (A)
+2020-12-24,2108,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-24,2042,X700,Sydney,17200,Sydney (C)
+2020-12-24,2026,X720,South Eastern Sydney,18050,Waverley (A)
+2020-12-24,,,,,
+2020-12-24,2041,X700,Sydney,14170,Inner West (A)
+2020-12-24,2155,X740,Western Sydney,17420,The Hills Shire (A)
+2020-12-24,2104,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-25,2108,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-25,,,,,
-2020-12-25,2134,X700,Sydney,11300,Burwood (A)
 2020-12-25,2037,X700,Sydney,17200,Sydney (C)
+2020-12-25,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-25,2620,X830,Southern NSW,16490,Queanbeyan-Palerang Regional (A)
+2020-12-25,2134,X700,Sydney,11300,Burwood (A)
+2020-12-25,2230,X720,South Eastern Sydney,17150,Sutherland Shire (A)
+2020-12-25,2062,X760,Northern Sydney,15950,North Sydney (A)
 2020-12-25,,,,,
-2020-12-26,2170,X710,South Western Sydney,14900,Liverpool (C)
-2020-12-26,2103,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-26,2620,X830,Southern NSW,16490,Queanbeyan-Palerang Regional (A)
-2020-12-26,2763,X740,Western Sydney,10750,Blacktown (C)
-2020-12-26,2484,X810,Northern NSW,17550,Tweed (A)
+2020-12-25,,,,,
+2020-12-25,2086,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-25,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-26,2021,X720,South Eastern Sydney,18500,Woollahra (A)
 2020-12-26,2156,X740,Western Sydney,17420,The Hills Shire (A)
+2020-12-26,2620,X830,Southern NSW,16490,Queanbeyan-Palerang Regional (A)
+2020-12-26,2103,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-26,2484,X810,Northern NSW,17550,Tweed (A)
+2020-12-26,2170,X710,South Western Sydney,14900,Liverpool (C)
+2020-12-26,2763,X740,Western Sydney,10750,Blacktown (C)
 2020-12-26,2170,X710,South Western Sydney,14900,Liverpool (C)
 2020-12-26,2021,X720,South Eastern Sydney,18500,Woollahra (A)
 2020-12-26,2106,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-26,,,,,
 2020-12-26,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-26,2021,X720,South Eastern Sydney,18500,Woollahra (A)
 2020-12-26,2107,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-27,2800,X850,Western NSW,16150,Orange (C)
 2020-12-27,,,,,
 2020-12-27,2103,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-27,2103,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-27,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-27,2099,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-27,,,,,
-2020-12-27,2103,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-27,2770,X740,Western Sydney,10750,Blacktown (C)
+2020-12-27,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-27,,,,,
-2020-12-28,2132,X700,Sydney,11300,Burwood (A)
-2020-12-28,,,,,
-2020-12-28,2257,X770,Central Coast,11650,Central Coast (C) (NSW)
-2020-12-28,2170,X710,South Western Sydney,14900,Liverpool (C)
-2020-12-28,2232,X720,South Eastern Sydney,17150,Sutherland Shire (A)
-2020-12-28,,,,,
-2020-12-28,2011,X720,South Eastern Sydney,17200,Sydney (C)
+2020-12-27,2800,X850,Western NSW,16150,Orange (C)
+2020-12-27,2103,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-28,2107,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-28,2257,X770,Central Coast,11650,Central Coast (C) (NSW)
 2020-12-28,2011,X720,South Eastern Sydney,17200,Sydney (C)
+2020-12-28,,,,,
+2020-12-28,2011,X720,South Eastern Sydney,17200,Sydney (C)
+2020-12-28,,,,,
+2020-12-28,2170,X710,South Western Sydney,14900,Liverpool (C)
+2020-12-28,2132,X700,Sydney,11300,Burwood (A)
+2020-12-28,2232,X720,South Eastern Sydney,17150,Sutherland Shire (A)
 2020-12-29,2198,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2020-12-29,,,,,
-2020-12-29,2198,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2020-12-29,,,,,
-2020-12-29,2132,X700,Sydney,11300,Burwood (A)
-2020-12-29,2207,X720,South Eastern Sydney,10500,Bayside (A)
-2020-12-29,2198,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2020-12-29,2122,X760,Northern Sydney,16700,Ryde (C)
-2020-12-29,2132,X700,Sydney,11300,Burwood (A)
-2020-12-29,2026,X720,South Eastern Sydney,18050,Waverley (A)
+2020-12-29,2017,X700,Sydney,17200,Sydney (C)
+2020-12-29,2100,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-29,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
-2020-12-29,2135,X700,Sydney,17100,Strathfield (A)
-2020-12-29,2155,X740,Western Sydney,17420,The Hills Shire (A)
-2020-12-29,2194,X700,Sydney,11570,Canterbury-Bankstown (A)
-2020-12-29,2102,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-29,2190,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2020-12-29,2102,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-29,2257,X770,Central Coast,11650,Central Coast (C) (NSW)
+2020-12-29,2132,X700,Sydney,11300,Burwood (A)
 2020-12-29,2144,X740,Western Sydney,12380,Cumberland (A)
-2020-12-29,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
-2020-12-29,2026,X720,South Eastern Sydney,18050,Waverley (A)
-2020-12-29,2170,X710,South Western Sydney,14900,Liverpool (C)
-2020-12-29,2102,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-29,,,,,
 2020-12-29,2132,X700,Sydney,11300,Burwood (A)
 2020-12-29,2110,X760,Northern Sydney,14100,Hunters Hill (A)
-2020-12-29,2017,X700,Sydney,17200,Sydney (C)
+2020-12-29,,,,,
+2020-12-29,,,,,
+2020-12-29,2122,X760,Northern Sydney,16700,Ryde (C)
+2020-12-29,2198,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
+2020-12-29,2135,X700,Sydney,17100,Strathfield (A)
+2020-12-29,2194,X700,Sydney,11570,Canterbury-Bankstown (A)
+2020-12-29,2198,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
+2020-12-29,2190,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
+2020-12-29,2155,X740,Western Sydney,17420,The Hills Shire (A)
+2020-12-29,2207,X720,South Eastern Sydney,10500,Bayside (A)
 2020-12-29,2102,X760,Northern Sydney,15990,Northern Beaches (A)
 2020-12-29,2026,X720,South Eastern Sydney,18050,Waverley (A)
-2020-12-29,2257,X770,Central Coast,11650,Central Coast (C) (NSW)
-2020-12-29,2100,X760,Northern Sydney,15990,Northern Beaches (A)
-2020-12-30,2021,X720,South Eastern Sydney,18500,Woollahra (A)
+2020-12-29,2102,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-29,2102,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-29,2026,X720,South Eastern Sydney,18050,Waverley (A)
+2020-12-29,2102,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-29,2170,X710,South Western Sydney,14900,Liverpool (C)
+2020-12-29,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
+2020-12-29,,,,,
+2020-12-29,2026,X720,South Eastern Sydney,18050,Waverley (A)
+2020-12-29,2132,X700,Sydney,11300,Burwood (A)
+2020-12-30,2067,X760,Northern Sydney,18250,Willoughby (C)
+2020-12-30,2000,X720,South Eastern Sydney,17200,Sydney (C)
 2020-12-30,,,,,
-2020-12-30,2102,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-30,,,,,
 2020-12-30,2122,X760,Northern Sydney,16700,Ryde (C)
 2020-12-30,,,,,
-2020-12-30,2067,X760,Northern Sydney,18250,Willoughby (C)
-2020-12-30,2478,X810,Northern NSW,10250,Ballina (A)
 2020-12-30,2160,X740,Western Sydney,12380,Cumberland (A)
-2020-12-30,,,,,
-2020-12-30,2000,X720,South Eastern Sydney,17200,Sydney (C)
-2020-12-31,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-12-31,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-12-31,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-12-31,2145,X740,Western Sydney,12380,Cumberland (A)
+2020-12-30,2021,X720,South Eastern Sydney,18500,Woollahra (A)
+2020-12-30,2478,X810,Northern NSW,10250,Ballina (A)
+2020-12-30,2102,X760,Northern Sydney,15990,Northern Beaches (A)
+2020-12-31,2143,X740,Western Sydney,11570,Canterbury-Bankstown (A)
 2020-12-31,,,,,
 2020-12-31,2145,X740,Western Sydney,12380,Cumberland (A)
 2020-12-31,2145,X740,Western Sydney,12380,Cumberland (A)
-2020-12-31,2000,X720,South Eastern Sydney,17200,Sydney (C)
-2020-12-31,2060,X760,Northern Sydney,15950,North Sydney (A)
-2020-12-31,2143,X740,Western Sydney,11570,Canterbury-Bankstown (A)
+2020-12-31,2145,X740,Western Sydney,12380,Cumberland (A)
 2020-12-31,2144,X740,Western Sydney,12380,Cumberland (A)
-2021-01-01,2564,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
+2020-12-31,2145,X740,Western Sydney,12380,Cumberland (A)
+2020-12-31,2145,X740,Western Sydney,12380,Cumberland (A)
+2020-12-31,2060,X760,Northern Sydney,15950,North Sydney (A)
+2020-12-31,2000,X720,South Eastern Sydney,17200,Sydney (C)
+2020-12-31,2145,X740,Western Sydney,12380,Cumberland (A)
 2021-01-01,2769,X740,Western Sydney,10750,Blacktown (C)
-2021-01-01,2023,X720,South Eastern Sydney,18500,Woollahra (A)
-2021-01-01,,,,,
-2021-01-01,2023,X720,South Eastern Sydney,18500,Woollahra (A)
 2021-01-01,2144,X740,Western Sydney,12380,Cumberland (A)
+2021-01-01,2023,X720,South Eastern Sydney,18500,Woollahra (A)
 2021-01-01,2019,X720,South Eastern Sydney,10500,Bayside (A)
 2021-01-01,2564,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
 2021-01-01,2192,X700,Sydney,11570,Canterbury-Bankstown (A)
-2021-01-01,2119,X760,Northern Sydney,14000,Hornsby (A)
-2021-01-01,2564,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
+2021-01-01,2023,X720,South Eastern Sydney,18500,Woollahra (A)
 2021-01-01,2564,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
 2021-01-01,2023,X720,South Eastern Sydney,18500,Woollahra (A)
 2021-01-01,,,,,
-2021-01-01,,,,,
+2021-01-01,2564,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
+2021-01-01,2023,X720,South Eastern Sydney,18500,Woollahra (A)
+2021-01-01,2564,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
 2021-01-01,2067,X760,Northern Sydney,18250,Willoughby (C)
-2021-01-01,2023,X720,South Eastern Sydney,18500,Woollahra (A)
-2021-01-02,2102,X760,Northern Sydney,15990,Northern Beaches (A)
-2021-01-02,,,,,
-2021-01-02,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
+2021-01-01,,,,,
+2021-01-01,,,,,
+2021-01-01,2119,X760,Northern Sydney,14000,Hornsby (A)
 2021-01-02,2141,X740,Western Sydney,12380,Cumberland (A)
 2021-01-02,2148,X740,Western Sydney,10750,Blacktown (C)
+2021-01-02,2102,X760,Northern Sydney,15990,Northern Beaches (A)
 2021-01-02,2223,X720,South Eastern Sydney,12930,Georges River (A)
 2021-01-02,2076,X760,Northern Sydney,14500,Ku-ring-gai (A)
+2021-01-02,,,,,
+2021-01-02,2500,X730,Illawarra Shoalhaven,18450,Wollongong (C)
+2021-01-03,2478,X810,Northern NSW,10250,Ballina (A)
+2021-01-03,2076,X760,Northern Sydney,14500,Ku-ring-gai (A)
+2021-01-03,2770,X740,Western Sydney,10750,Blacktown (C)
+2021-01-03,2194,X700,Sydney,11570,Canterbury-Bankstown (A)
+2021-01-03,,,,,
+2021-01-03,,,,,
+2021-01-03,2478,X810,Northern NSW,10250,Ballina (A)
+2021-01-03,2150,X740,Western Sydney,16260,Parramatta (C)
 2021-01-03,,,,,
 2021-01-03,2144,X740,Western Sydney,12380,Cumberland (A)
 2021-01-03,2141,X740,Western Sydney,12380,Cumberland (A)
-2021-01-03,2150,X740,Western Sydney,16260,Parramatta (C)
-2021-01-03,2770,X740,Western Sydney,10750,Blacktown (C)
-2021-01-03,,,,,
-2021-01-03,2194,X700,Sydney,11570,Canterbury-Bankstown (A)
-2021-01-03,2478,X810,Northern NSW,10250,Ballina (A)
-2021-01-03,2478,X810,Northern NSW,10250,Ballina (A)
-2021-01-03,2076,X760,Northern Sydney,14500,Ku-ring-gai (A)
-2021-01-03,,,,,
-2021-01-04,2147,X740,Western Sydney,10750,Blacktown (C)
+2021-01-04,2143,X740,Western Sydney,11570,Canterbury-Bankstown (A)
 2021-01-04,2251,X770,Central Coast,11650,Central Coast (C) (NSW)
 2021-01-04,2141,X740,Western Sydney,12380,Cumberland (A)
-2021-01-04,2143,X740,Western Sydney,11570,Canterbury-Bankstown (A)
+2021-01-04,2147,X740,Western Sydney,10750,Blacktown (C)
+2021-01-05,2145,X740,Western Sydney,12380,Cumberland (A)
 2021-01-05,2144,X740,Western Sydney,12380,Cumberland (A)
 2021-01-05,2122,X760,Northern Sydney,16700,Ryde (C)
 2021-01-05,,,,,
-2021-01-05,2145,X740,Western Sydney,12380,Cumberland (A)
-2021-01-06,,,,,
+2021-01-06,2141,X740,Western Sydney,12380,Cumberland (A)
 2021-01-06,,,,,
 2021-01-06,2023,X720,South Eastern Sydney,18500,Woollahra (A)
+2021-01-06,2141,X740,Western Sydney,12380,Cumberland (A)
 2021-01-06,2023,X720,South Eastern Sydney,18500,Woollahra (A)
 2021-01-06,,,,,
+2021-01-06,2023,X720,South Eastern Sydney,18500,Woollahra (A)
 2021-01-06,,,,,
 2021-01-06,2630,X830,Southern NSW,17040,Snowy Monaro Regional (A)
-2021-01-06,2023,X720,South Eastern Sydney,18500,Woollahra (A)
-2021-01-06,2141,X740,Western Sydney,12380,Cumberland (A)
-2021-01-06,2023,X720,South Eastern Sydney,18500,Woollahra (A)
+2021-01-06,,,,,
 2021-01-06,2290,X800,Hunter New England,14650,Lake Macquarie (C)
-2021-01-06,2141,X740,Western Sydney,12380,Cumberland (A)
+2021-01-06,2023,X720,South Eastern Sydney,18500,Woollahra (A)
+2021-01-07,2045,X700,Sydney,14170,Inner West (A)
+2021-01-07,2541,X730,Illawarra Shoalhaven,16950,Shoalhaven (C)
 2021-01-07,2107,X760,Northern Sydney,15990,Northern Beaches (A)
 2021-01-07,,,,,
-2021-01-07,2541,X730,Illawarra Shoalhaven,16950,Shoalhaven (C)
 2021-01-07,2194,X700,Sydney,11570,Canterbury-Bankstown (A)
-2021-01-07,2045,X700,Sydney,14170,Inner West (A)
-2021-01-08,2161,X740,Western Sydney,12380,Cumberland (A)
-2021-01-08,2193,X700,Sydney,11570,Canterbury-Bankstown (A)
-2021-01-08,2087,X760,Northern Sydney,15990,Northern Beaches (A)
+2021-01-08,2564,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
 2021-01-08,2160,X740,Western Sydney,12380,Cumberland (A)
 2021-01-08,2211,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2021-01-08,,,,,
-2021-01-08,2779,X750,Nepean Blue Mountains,10900,Blue Mountains (C)
-2021-01-08,2564,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
-2021-01-08,2305,X800,Hunter New England,15900,Newcastle (C)
+2021-01-08,2161,X740,Western Sydney,12380,Cumberland (A)
 2021-01-08,2193,X700,Sydney,11570,Canterbury-Bankstown (A)
+2021-01-08,2193,X700,Sydney,11570,Canterbury-Bankstown (A)
+2021-01-08,2305,X800,Hunter New England,15900,Newcastle (C)
+2021-01-08,2779,X750,Nepean Blue Mountains,10900,Blue Mountains (C)
 2021-01-08,,,,,
+2021-01-08,,,,,
+2021-01-08,2087,X760,Northern Sydney,15990,Northern Beaches (A)
 2021-01-09,,,,,
 2021-01-09,2145,X740,Western Sydney,12380,Cumberland (A)
-2021-01-09,2193,X700,Sydney,11570,Canterbury-Bankstown (A)
-2021-01-09,,,,,
-2021-01-09,2193,X700,Sydney,11570,Canterbury-Bankstown (A)
 2021-01-09,2213,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
 2021-01-09,,,,,
-2021-01-10,,,,,
-2021-01-10,2088,X760,Northern Sydney,15350,Mosman (A)
-2021-01-10,,,,,
-2021-01-10,2619,X830,Southern NSW,16490,Queanbeyan-Palerang Regional (A)
-2021-01-10,2350,X800,Hunter New England,10130,Armidale Regional (A)
-2021-01-10,2141,X740,Western Sydney,12380,Cumberland (A)
-2021-01-10,2193,X700,Sydney,11570,Canterbury-Bankstown (A)
+2021-01-09,,,,,
+2021-01-09,2193,X700,Sydney,11570,Canterbury-Bankstown (A)
+2021-01-09,2193,X700,Sydney,11570,Canterbury-Bankstown (A)
 2021-01-10,2766,X740,Western Sydney,10750,Blacktown (C)
-2021-01-10,2088,X760,Northern Sydney,15350,Mosman (A)
+2021-01-10,2193,X700,Sydney,11570,Canterbury-Bankstown (A)
+2021-01-10,,,,,
+2021-01-10,,,,,
 2021-01-10,2101,X760,Northern Sydney,15990,Northern Beaches (A)
+2021-01-10,2088,X760,Northern Sydney,15350,Mosman (A)
+2021-01-10,2619,X830,Southern NSW,16490,Queanbeyan-Palerang Regional (A)
+2021-01-10,2088,X760,Northern Sydney,15350,Mosman (A)
 2021-01-10,,,,,
+2021-01-10,2141,X740,Western Sydney,12380,Cumberland (A)
+2021-01-10,2350,X800,Hunter New England,10130,Armidale Regional (A)
 2021-01-10,,,,,
+2021-01-11,2088,X760,Northern Sydney,15350,Mosman (A)
 2021-01-11,2766,X740,Western Sydney,10750,Blacktown (C)
-2021-01-11,2213,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2021-01-11,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
 2021-01-11,2161,X740,Western Sydney,12380,Cumberland (A)
 2021-01-11,2315,X800,Hunter New England,16400,Port Stephens (A)
-2021-01-11,2193,X700,Sydney,11570,Canterbury-Bankstown (A)
+2021-01-11,2195,X700,Sydney,11570,Canterbury-Bankstown (A)
 2021-01-11,,,,,
 2021-01-11,2630,X830,Southern NSW,17040,Snowy Monaro Regional (A)
 2021-01-11,,,,,
+2021-01-11,2213,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
+2021-01-11,2193,X700,Sydney,11570,Canterbury-Bankstown (A)
 2021-01-11,2101,X760,Northern Sydney,15990,Northern Beaches (A)
-2021-01-11,2088,X760,Northern Sydney,15350,Mosman (A)
+2021-01-12,2145,X740,Western Sydney,12380,Cumberland (A)
 2021-01-12,2565,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
 2021-01-12,2015,X700,Sydney,17200,Sydney (C)
 2021-01-12,,,,,
 2021-01-12,,,,,
-2021-01-12,2145,X740,Western Sydney,12380,Cumberland (A)
 2021-01-13,,,,,
 2021-01-13,,,,,
 2021-01-14,,,,,
 2021-01-14,2212,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
-2021-01-15,2144,X740,Western Sydney,12380,Cumberland (A)
-2021-01-15,2144,X740,Western Sydney,12380,Cumberland (A)
-2021-01-15,,,,,
 2021-01-15,,,,,
 2021-01-15,,,,,
 2021-01-15,2065,X760,Northern Sydney,14700,Lane Cove (A)
+2021-01-15,2230,X720,South Eastern Sydney,17150,Sutherland Shire (A)
+2021-01-15,2144,X740,Western Sydney,12380,Cumberland (A)
 2021-01-15,,,,,
 2021-01-15,,,,,
 2021-01-15,2770,X740,Western Sydney,10750,Blacktown (C)
 2021-01-15,2486,X810,Northern NSW,17550,Tweed (A)
 2021-01-15,,,,,
-2021-01-15,2230,X720,South Eastern Sydney,17150,Sutherland Shire (A)
-2021-01-15,2194,X700,Sydney,11570,Canterbury-Bankstown (A)
+2021-01-15,2144,X740,Western Sydney,12380,Cumberland (A)
+2021-01-15,,,,,
 2021-01-15,2023,X720,South Eastern Sydney,18500,Woollahra (A)
-2021-01-16,2144,X740,Western Sydney,12380,Cumberland (A)
-2021-01-16,2095,X760,Northern Sydney,15990,Northern Beaches (A)
-2021-01-16,2095,X760,Northern Sydney,15990,Northern Beaches (A)
-2021-01-16,,,,,
-2021-01-16,2144,X740,Western Sydney,12380,Cumberland (A)
+2021-01-15,2194,X700,Sydney,11570,Canterbury-Bankstown (A)
 2021-01-16,2144,X740,Western Sydney,12380,Cumberland (A)
 2021-01-16,2199,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
+2021-01-16,2144,X740,Western Sydney,12380,Cumberland (A)
+2021-01-16,,,,,
 2021-01-16,2170,X710,South Western Sydney,14900,Liverpool (C)
 2021-01-16,2144,X740,Western Sydney,12380,Cumberland (A)
 2021-01-16,2088,X760,Northern Sydney,15350,Mosman (A)
+2021-01-16,2095,X760,Northern Sydney,15990,Northern Beaches (A)
+2021-01-16,2095,X760,Northern Sydney,15990,Northern Beaches (A)
+2021-01-16,2144,X740,Western Sydney,12380,Cumberland (A)
+2021-01-16,2088,X760,Northern Sydney,15350,Mosman (A)
+2021-01-16,2144,X740,Western Sydney,12380,Cumberland (A)
 2021-01-16,2170,X710,South Western Sydney,14900,Liverpool (C)
 2021-01-16,,,,,
-2021-01-16,2144,X740,Western Sydney,12380,Cumberland (A)
-2021-01-16,2088,X760,Northern Sydney,15350,Mosman (A)
 2021-01-17,,,,,
 2021-01-17,,,,,
 2021-01-18,2261,X770,Central Coast,11650,Central Coast (C) (NSW)
+2021-01-19,2303,X800,Hunter New England,15900,Newcastle (C)
+2021-01-19,,,,,
 2021-01-19,,,,,
 2021-01-19,2120,X760,Northern Sydney,14000,Hornsby (A)
-2021-01-19,,,,,
-2021-01-19,2303,X800,Hunter New England,15900,Newcastle (C)
-2021-01-20,,,,,
 2021-01-20,2170,X710,South Western Sydney,14900,Liverpool (C)
+2021-01-20,,,,,
 2021-01-20,2217,X720,South Eastern Sydney,10500,Bayside (A)
 2021-01-20,,,,,
 2021-01-20,2046,X700,Sydney,11520,Canada Bay (A)
 2021-01-22,,,,,
 2021-01-23,,,,,
+2021-01-23,,,,,
+2021-01-23,,,,,
 2021-01-23,2120,X760,Northern Sydney,14000,Hornsby (A)
 2021-01-23,,,,,
-2021-01-23,,,,,
-2021-01-23,,,,,
 2021-01-24,,,,,
-2021-01-25,2103,X760,Northern Sydney,15990,Northern Beaches (A)
-2021-01-25,2028,X720,South Eastern Sydney,18500,Woollahra (A)
 2021-01-25,2194,X700,Sydney,11570,Canterbury-Bankstown (A)
+2021-01-25,2028,X720,South Eastern Sydney,18500,Woollahra (A)
+2021-01-25,2103,X760,Northern Sydney,15990,Northern Beaches (A)
 2021-01-26,,,,,
+2021-01-27,2112,X760,Northern Sydney,16700,Ryde (C)
+2021-01-27,2067,X760,Northern Sydney,18250,Willoughby (C)
 2021-01-27,2031,X720,South Eastern Sydney,16550,Randwick (C)
 2021-01-27,,,,,
-2021-01-27,2067,X760,Northern Sydney,18250,Willoughby (C)
-2021-01-27,2112,X760,Northern Sydney,16700,Ryde (C)
 2021-01-28,,,,,
 2021-01-28,,,,,
 2021-01-28,,,,,
 2021-01-28,,,,,
-2021-01-29,,,,,
 2021-01-29,2020,X720,South Eastern Sydney,10500,Bayside (A)
+2021-01-29,,,,,
 2021-01-29,2768,X740,Western Sydney,10750,Blacktown (C)
 2021-01-30,2200,X710,South Western Sydney,11570,Canterbury-Bankstown (A)
 2021-01-30,,,,,
-2021-01-31,2049,X700,Sydney,14170,Inner West (A)
-2021-01-31,2153,X740,Western Sydney,17420,The Hills Shire (A)
 2021-01-31,,,,,
 2021-01-31,2258,X770,Central Coast,11650,Central Coast (C) (NSW)
+2021-01-31,2153,X740,Western Sydney,17420,The Hills Shire (A)
+2021-01-31,2049,X700,Sydney,14170,Inner West (A)
 2021-02-01,,,,,
 2021-02-01,,,,,
 2021-02-02,,,,,
 2021-02-02,,,,,
-2021-02-03,,,,,
-2021-02-03,,,,,
 2021-02-03,2150,X740,Western Sydney,16260,Parramatta (C)
-2021-02-05,,,,,
+2021-02-03,,,,,
+2021-02-03,,,,,
 2021-02-05,2176,X710,South Western Sydney,12850,Fairfield (C)
-2021-02-05,2150,X740,Western Sydney,16260,Parramatta (C)
+2021-02-05,,,,,
 2021-02-05,2167,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
+2021-02-05,2150,X740,Western Sydney,16260,Parramatta (C)
 2021-02-07,2066,X760,Northern Sydney,14700,Lane Cove (A)
 2021-02-07,2000,X720,South Eastern Sydney,17200,Sydney (C)
 2021-02-07,2515,X730,Illawarra Shoalhaven,18450,Wollongong (C)
@@ -4948,3 +4948,4 @@ notification_date,postcode,lhd_2010_code,lhd_2010_name,lga_code19,lga_name19
 2021-02-12,,,,,
 2021-02-13,,,,,
 2021-02-13,,,,,
+2021-02-15,2565,X710,South Western Sydney,11500,Campbelltown (C) (NSW)
